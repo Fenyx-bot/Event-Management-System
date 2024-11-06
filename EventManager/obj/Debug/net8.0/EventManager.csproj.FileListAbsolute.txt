@@ -1,0 +1,15 @@
+C:\Users\FenyxPC\source\repos\EventManager\EventManager\obj\Debug\net8.0\EventManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FenyxPC\source\repos\EventManager\EventManager\obj\Debug\net8.0\EventManager.AssemblyInfoInputs.cache
+C:\Users\FenyxPC\source\repos\EventManager\EventManager\obj\Debug\net8.0\EventManager.AssemblyInfo.cs
+C:\Users\FenyxPC\source\repos\EventManager\EventManager\obj\Debug\net8.0\EventManager.csproj.CoreCompileInputs.cache
+C:\Users\FenyxPC\source\repos\EventManager\EventManager\bin\Debug\net8.0\EventManager.exe
+C:\Users\FenyxPC\source\repos\EventManager\EventManager\bin\Debug\net8.0\EventManager.deps.json
+C:\Users\FenyxPC\source\repos\EventManager\EventManager\bin\Debug\net8.0\EventManager.runtimeconfig.json
+C:\Users\FenyxPC\source\repos\EventManager\EventManager\bin\Debug\net8.0\EventManager.dll
+C:\Users\FenyxPC\source\repos\EventManager\EventManager\bin\Debug\net8.0\EventManager.pdb
+C:\Users\FenyxPC\source\repos\EventManager\EventManager\obj\Debug\net8.0\EventManager.dll
+C:\Users\FenyxPC\source\repos\EventManager\EventManager\obj\Debug\net8.0\refint\EventManager.dll
+C:\Users\FenyxPC\source\repos\EventManager\EventManager\obj\Debug\net8.0\EventManager.pdb
+C:\Users\FenyxPC\source\repos\EventManager\EventManager\obj\Debug\net8.0\EventManager.genruntimeconfig.cache
+C:\Users\FenyxPC\source\repos\EventManager\EventManager\obj\Debug\net8.0\ref\EventManager.dll
+C:\Users\FenyxPC\source\repos\EventManager\EventManager\obj\Debug\net8.0\EventManager.sourcelink.json
