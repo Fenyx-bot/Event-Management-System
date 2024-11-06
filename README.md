@@ -3,7 +3,7 @@ EMS is console based tool built for the coding challenge of Mbition using C# and
 
 ### Showcase
 <video width="320" height="240" controls>
-  <source src="./assets/vid.mp4" type="video/mp4">
+  <source src="https://youtu.be/s7AtcX76baE" type="video/mp4">
 </video>
 
 ### Features
