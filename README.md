@@ -2,9 +2,7 @@
 EMS is console based tool built for the coding challenge of Mbition using C# and .NET 8
 
 ### Showcase
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/s7AtcX76baE" type="video/mp4">
-</video>
+![Demo of the Event Management System](./assets/Animation.gif)
 
 ### Features
 - ⏰ Shows event with the closest date
